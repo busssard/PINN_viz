@@ -18,7 +18,6 @@ import random
 
 from pyDOE import lhs
 import numpy as np
-import sobol_seq
 
 import matplotlib
 import matplotlib.pyplot as plt
